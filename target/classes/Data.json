@@ -1,0 +1,22 @@
+[ {
+  "id" : 4,
+  "chanceFalling" : 55,
+  "quantity" : 5,
+  "name" : "Кукла"
+}, {
+  "id" : 3,
+  "chanceFalling" : 40,
+  "quantity" : 2,
+  "name" : "Конструктор"
+}, {
+  "id" : 6,
+  "chanceFalling" : 30,
+  "quantity" : 1,
+  "name" : "плюшевый мишка"
+}, {
+  "id" : 2,
+  "chanceFalling" : 60,
+  "quantity" : 3,
+  "name" : "трансформер"
+}
+]
